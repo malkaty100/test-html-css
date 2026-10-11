@@ -1,0 +1,57 @@
+.alink{color: #5D5D5D;
+text-decoration: none;
+margin-left: 10px;
+}.btnMain{
+    border:2px solid #EAEAEA;
+border-radius: 25px;
+background-color: white;
+padding: 8px;
+color: #6E6E6E;}
+
+*{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+#header-main{position: relative;}
+#header-main nav{position: absolute;
+left:500px;
+top:5px;}
+#header-main .btns{position: absolute;
+right: 0;
+top: 2px;}
+.login{background-color: #0D0D0D;
+color:white}
+/* .top-left{position: absolute;
+top:1px;} */
+#main-gpt{text-align: center;
+margin-top: 250px;}
+/* .input-gpt{border:2px solid #EAEAEA;
+border-radius: 20px;
+height: 70px;
+width: 350px;} */
+.form-gpt{border:2px solid #EAEAEA;
+border-radius: 25px;
+height: 100px;
+width: 650px;
+margin: auto;
+position: relative;}
+.btn-input{color: #696e7a
+;
+    padding: 13px;
+    font-weight: bold;
+   
+}
+.btn-options{ position: absolute;
+    left:8px;
+    bottom: 8px;}
+    .btn-right-bottom{position: absolute;
+    right:8px;
+bottom: 8px;
+background-color: #ececec
+;  }
+.input-gpt{
+position: absolute;
+left: 8px;
+border:none;
+}
